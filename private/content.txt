@@ -1,68 +1,89 @@
-+ Dresses
-  Name: Wedding dress removable heirloom over-skirt and train
-  Price: $525
-  Colors: Black, White, Ivory, Taupe
-  Sizes: XS, S, M, L, XL, XXL
-  Materials: Mesh, Rhinestone
-  Description: Hand-made heirloom, removable 3 ft. long wedding train/skirt. Includes 5 layers of soft netting tulle with hand sewn and delicately placed rhinestones throughout the skirt. The waist band is satin with a beautiful rhinestone motif hand sewn in the center. This latest over-skirt removable train trend will turn any dress into a beautiful one-of-a-kind gown.
++ Home
+  Description:
 
-  Name: Wedding dress heirloom 2pc. Removable Train and Versatile Sash Set
-  Price: $550
-  Sizes: XS, S, M, L, XL, XXL
-  Colors: Ivory, White
-  Materials: Mesh, Tulle, Lace, Rhinestones
-  Description: Heirloom Set: hand-made with soft tulle and delicate rhinestones.
++ Heirloom Creations
+  Description: 
 
-+ Veils
-  Name: Wedding Day Veil
-  Price: $90
-  Colors: White, Ivory
-  Dimensions: 42" length
-  Description: Heirloom veil. Nylon mess with delicate corded and hand beaded motifs.
+  + Dresses
+    Description: 
 
-  Name: Wedding Day Chapel Veil With Blusher
-  Price: $125
-  Colors: White, Ivory
-  Materials: Mesh, Rhinestones, Tulle
-  Description: Heirloom chapel veil with blusher. Hand-made with soft tulle material and rhinestone details.
+    Name: Wedding dress removable heirloom over-skirt and train
+    Price: $525
+    Colors: Black, White, Ivory, Taupe
+    Sizes: XS, S, M, L, XL, XXL
+    Materials: Mesh, Rhinestone
+    Description: Hand-made heirloom, removable 3 ft. long wedding train/skirt. Includes 5 layers of soft netting tulle with hand sewn and delicately placed rhinestones throughout the skirt. The waist band is satin with a beautiful rhinestone motif hand sewn in the center. This latest over-skirt removable train trend will turn any dress into a beautiful one-of-a-kind gown.
 
-  Name: Wedding day custom made veil
-  Price: $100
-  Colors: White, Ivory
-  Materials: Mesh, Tulle
-  Description: Heirloom custom made veil is eloquently designed to match the bride's wedding dress. This is a soft mesh fabric with detailed motif lace, appliques, and a silver wire comb.
+    Name: Wedding dress heirloom 2pc. Removable Train and Versatile Sash Set
+    Price: $550
+    Sizes: XS, S, M, L, XL, XXL
+    Colors: Ivory, White
+    Materials: Mesh, Tulle, Lace, Rhinestones
+    Description: Heirloom Set: hand-made with soft tulle and delicate rhinestones.
 
-Garters
+  + Veils
+    Description: 
 
-+ COVER UPS
-  Name: Wedding Day Ultra-soft Faux Fur Cover Up
-  Price: $95
-  Material: Faux Fur, Soft Fur, Fur
-  Colors: Tax, Beige, Taupe
-  Description: Ultra soft polyester faux fur cap with polyester satin lining. Hook and eye closure. Beautiful rhinestone trim detail
+    Name: Wedding Day Veil
+    Price: $90
+    Colors: White, Ivory
+    Dimensions: 42" length
+    Description: Heirloom veil. Nylon mess with delicate corded and hand beaded motifs.
 
-  Name: Wedding Day Winter Bride Shawl
-  Price: $65
-  Sizes: S, M, L, XL
-  Description: Hand-made delicate heirloom shawl. Faux fur with satin lining and a beautiful rhinestone closure.
+    Name: Wedding Day Chapel Veil With Blusher
+    Price: $125
+    Colors: White, Ivory
+    Materials: Mesh, Rhinestones, Tulle
+    Description: Heirloom chapel veil with blusher. Hand-made with soft tulle material and rhinestone details.
 
-  Name: Wedding day Faux Fur Cover-Up
-  Price: $85
-  Sizes: S, M, L, XL
-  Materials: Fur, Rhinestones
-  Description: This is a hand-made faux cover up with satin lining, delicate rhinestone detail, with a hook and eye closure.
+    Name: Wedding Day Custom Made Veil
+    Price: $100
+    Colors: White, Ivory
+    Materials: Mesh, Tulle
+    Description: Heirloom custom made veil is eloquently designed to match the bride's wedding dress. This is a soft mesh fabric with detailed motif lace, appliques, and a silver wire comb.
 
-+ Accessories
-  Name: Personalized Wedding Day Clutch
-  Price: $65
-  Colors: White, Ivory
-  Dimensions:
-    Clutch: 8 1/2" x 5 1/2"
-    Wrist Chain: 12" diameter
-  Description: This is a personalized wedding day clutch. It has a heavy damask satin woven fabric shell with a delicate pearl and sequin motif detail on the outside. The lining is a satin dot weave. The wrist bracelet is a silver ball barring chain with a toggle closure. The inside photograph is a personalized picture sent to us by our customers. This item was inspired by my sister-in-law. She requested that I make her a few fun Christmas bags for her daughter and daughter-in-law. We personalized each bag with memorable pictures. Having a little memory of a moment or someone special was a perfect gift that can also be used for a beautiful bride. The personalized wedding clutch was created. This clutch is perfect for holding phones, IDs, lipstick, or any other delicate items a bride may need.
+  + Cover Ups
+    Description: 
 
-  Name: Wedding day heirloom custom made garter
-  Price: $15
-  Colors: Ivory, White, Light Blue
-  Materials: Mesh, Lace
-  Description: Heirloom custom made garter. Hand-made to match the bride's dress. Made with soft mesh, soft polyester ribbon, delicate motif and pearl.
+    Name: Wedding Day Ultra-soft Faux Fur Cover Up
+    Price: $95
+    Material: Faux Fur, Soft Fur, Fur
+    Colors: Tax, Beige, Taupe
+    Description: Ultra soft polyester faux fur cap with polyester satin lining. Hook and eye closure. Beautiful rhinestone trim detail
+
+    Name: Wedding Day Winter Bride Shawl
+    Price: $65
+    Sizes: S, M, L, XL
+    Description: Hand-made delicate heirloom shawl. Faux fur with satin lining and a beautiful rhinestone closure.
+
+    Name: Wedding Day Faux Fur Cover-Up
+    Price: $85
+    Sizes: S, M, L, XL
+    Materials: Fur, Rhinestones
+    Description: This is a hand-made faux cover up with satin lining, delicate rhinestone detail, with a hook and eye closure.
+
+  + Accessories
+    Description: 
+
+    Name: Personalized Wedding Day Clutch
+    Price: $65
+    Colors: White, Ivory
+    Dimensions:
+      Clutch: 8 1/2" x 5 1/2"
+      Wrist Chain: 12" diameter
+    Description: This is a personalized wedding day clutch. It has a heavy damask satin woven fabric shell with a delicate pearl and sequin motif detail on the outside. The lining is a satin dot weave. The wrist bracelet is a silver ball barring chain with a toggle closure. The inside photograph is a personalized picture sent to us by our customers. This item was inspired by my sister-in-law. She requested that I make her a few fun Christmas bags for her daughter and daughter-in-law. We personalized each bag with memorable pictures. Having a little memory of a moment or someone special was a perfect gift that can also be used for a beautiful bride. The personalized wedding clutch was created. This clutch is perfect for holding phones, IDs, lipstick, or any other delicate items a bride may need.
+
+    Name: Wedding Day Heirloom Custom Made Garter
+    Price: $15
+    Colors: Ivory, White, Light Blue
+    Materials: Mesh, Lace
+    Description: Heirloom custom made garter. Hand-made to match the bride's dress. Made with soft mesh, soft polyester ribbon, delicate motif and pearl.
+
++ About
+  Description: 
+
++ Blog
+  Description:
+
++ Contact
+  Description: 

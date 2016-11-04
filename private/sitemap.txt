@@ -1,17 +1,13 @@
 + Home
- + Products
-  - Dresses
-   - Dress 1
-   - Dress 2
-   - ...
-  - Accessories
-   - Accessory 1
-   - Accessory 2
-   - ...
- + About
- + Blog
- + Contact
- -------------------
- + Etsy
- + Intragram
- + Facebook
++ Heirloom Creations
+	+ Dresses
+	+ Veils
+	+ Cover Ups
+	+ Accessories
++ About
++ Blog
++ Contact
+-------------------
++ Etsy
++ Intragram
++ Facebook
